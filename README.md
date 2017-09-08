@@ -1,4 +1,6 @@
 # NewGitTest
->This is a test repository
->Just for fun
->Cheers
+```
+This is a test repository
+Just for fun
+Cheers
+```
